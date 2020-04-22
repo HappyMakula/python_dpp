@@ -1,2 +1,2 @@
 # python_dpp
-Simple scripts in python made fro class
+Simple scripts in python made for class
